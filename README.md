@@ -6,5 +6,5 @@ Main points:
  - which inquiries hosts tend to accept;
  - understand overall gaps between guests demand and host supply to increase the number of bookings.
 
-Thech used:\
+Tech used:\
 Python: NumPy, Pandas, Matplotlib, Seaborn
